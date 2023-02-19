@@ -1,6 +1,6 @@
 # Book Project
 
-> One paragraph statement about the project.
+> This is a book library
 
 ![screenshot](./app_screenshot.png)
 
