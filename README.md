@@ -1,4 +1,4 @@
-# Project Name
+# Book Project
 
 > One paragraph statement about the project.
 
